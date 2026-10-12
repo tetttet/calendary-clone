@@ -85,14 +85,16 @@ export function SectionHeading({
   title,
   children,
   cta,
+  reveal = true,
 }: {
   eyebrow?: string;
   title: string;
   children?: ReactNode;
   cta?: boolean;
+  reveal?: boolean;
 }) {
   return (
-    <div className="section-heading reveal">
+    <div className={`section-heading${reveal ? " reveal" : ""}`}>
       {eyebrow && <div className="eyebrow">{eyebrow}</div>}
       <h2>{title}</h2>
       {children && <p>{children}</p>}

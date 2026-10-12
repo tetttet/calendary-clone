@@ -12,6 +12,7 @@ export function Workflow() {
           <SectionHeading
             eyebrow="AI meeting management"
             title="Built for people whose work runs on meetings"
+            reveal={false}
             cta
           >
             Meetings move you forward, but the work around them can slow you

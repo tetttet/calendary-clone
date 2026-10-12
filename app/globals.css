@@ -264,6 +264,14 @@ main {
   position: relative;
   z-index: 1000;
   background: var(--surface);
+  transition: opacity 0.2s ease, visibility 0.2s;
+}
+@media (min-width: 640px) {
+  body:has(.hero-stage.expanded) .site-header {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
 }
 .announcement {
   background: #88c1ff;
@@ -693,6 +701,12 @@ main {
   pointer-events: auto;
 }
 /* Meeting workflow. */
+.workflow-wrap {
+  color: var(--ink);
+}
+.workflow-wrap .section-heading > p {
+  color: var(--ink);
+}
 .workflow-surface {
   border-radius: 40px;
   background: var(--linen) url("/media/timeline-background.UWFBJqGi.svg")
@@ -735,7 +749,7 @@ main {
   position: relative;
   z-index: 1;
   font-size: 14px;
-  color: var(--muted);
+  color: var(--ink);
 }
 .workflow-active {
   display: none;

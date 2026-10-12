@@ -1,0 +1,500 @@
+{
+  "geometry": [
+    {
+      "title": "All the work around meetings, handled.",
+      "classes": "flex w-full justify-center p-2 tb:p-6 bg-ramp-orange-025",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "relative flex justify-center w-full max-w-[1920px] overflow-clip rounded-ui-fixed-2xl bg-surface-bg-secondary"
+        }
+      ]
+    },
+    {
+      "title": "Easy scheduling ahead.",
+      "classes": "flex w-full justify-center p-2 tb:p-6 bg-ramp-orange-025",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "relative flex justify-center w-full max-w-[1920px] overflow-clip rounded-ui-fixed-2xl relative"
+        }
+      ]
+    },
+    {
+      "title": "Built for people whose work runs on meetings",
+      "classes": "flex w-full justify-center p-2 tb:p-6 bg-ramp-orange-025",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "relative flex justify-center w-full max-w-[1920px] overflow-clip rounded-ui-fixed-2xl relative"
+        }
+      ]
+    },
+    {
+      "title": "There’s more to meetings than finding a time.",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default pb-section-small",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-2xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "A better way to book your meetings",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-3xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "Meet Callie, your AI assistant",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-3xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "Actionable recaps for every meeting",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-3xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "Flexible payment options that fit your business",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-3xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "Real customers. Real results.",
+      "classes": "flex w-full justify-center relative py-section-default dark",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "absolute inset-x-0 top-0 z-20 w-full h-(--section-rounded-divider-height) bg-ramp-orange-025"
+        },
+        {
+          "tag": "DIV",
+          "cls": "pointer-events-none absolute inset-0 z-0 overflow-hidden"
+        },
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-2xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "Connect Calendly with your favorite tools",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-2xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    },
+    {
+      "title": "From the first meeting to the follow-up",
+      "classes": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "children": [
+        {
+          "tag": "DIV",
+          "cls": "z-10 has-data-scrolljack-overlay:z-1001 w-full flex flex-col @container gap-2xl max-w-[1280px] px-(--section-padding-x)"
+        }
+      ]
+    }
+  ],
+  "computed": [
+    {
+      "text": "All the work around meetings, handled.",
+      "font": "",
+      "size": "40px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Book meetings with the world’s #1 scheduling tool",
+      "font": "500 24px / 26.4px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "24px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Introducing your 24/7 AI scheduling assistant",
+      "font": "500 24px / 26.4px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "24px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Actionable, shareable recaps for every meeting",
+      "font": "500 24px / 26.4px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "24px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Flexible, built-in payment tools",
+      "font": "500 24px / 26.4px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "24px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Built for people whose work runs on meetings",
+      "font": "",
+      "size": "36px",
+      "spacing": "normal"
+    },
+    {
+      "text": "A better way to book your meetings",
+      "font": "500 28px / 30.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "28px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Meet Callie, your AI assistant",
+      "font": "500 28px / 30.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "28px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Actionable recaps for every meeting",
+      "font": "500 28px / 30.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "28px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Flexible payment options that fit your business",
+      "font": "500 28px / 30.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "28px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Real customers. Real results.",
+      "font": "",
+      "size": "36px",
+      "spacing": "normal"
+    },
+    {
+      "text": "Connect Calendly with your favorite tools",
+      "font": "",
+      "size": "36px",
+      "spacing": "normal"
+    },
+    {
+      "text": "From the first meeting to the follow-up",
+      "font": "",
+      "size": "36px",
+      "spacing": "normal"
+    }
+  ],
+  "tokens": [
+    [
+      "--spacing-gap-lg",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--leading-ui-body-lg",
+      "1.4"
+    ],
+    [
+      "--leading-ui-body-xl",
+      "1.4"
+    ],
+    [
+      "--spacing-4xl",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--leading-ui-overline",
+      "1"
+    ],
+    [
+      "--spacing-2xl",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-section-small",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-sm",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--leading-ui-h5",
+      "1.4"
+    ],
+    [
+      "--leading-ui-body-md",
+      "1.4"
+    ],
+    [
+      "--leading-ui-huge",
+      "1.1"
+    ],
+    [
+      "--spacing-section-default",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--leading-ui-h4",
+      "1.2"
+    ],
+    [
+      "--spacing-gap-2xl",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-gap-xs-fixed",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-md-fixed",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing-gap-4xl-fixed",
+      "calc(.25rem*16)"
+    ],
+    [
+      "--spacing-gap-sm",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--tracking-ui-tight-fixed",
+      "-1px"
+    ],
+    [
+      "--spacing-gap-sm-fixed",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-gap-xs",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-xl-fixed",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--leading-snug",
+      "1.375"
+    ],
+    [
+      "--spacing-2xl-fixed",
+      "calc(.25rem*10)"
+    ],
+    [
+      "--tracking-ui-loose",
+      "0px"
+    ],
+    [
+      "--leading-ui-caption",
+      "1.4"
+    ],
+    [
+      "--tracking-ui-tighter-fixed",
+      "-2px"
+    ],
+    [
+      "--spacing-lg",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing",
+      ".25rem"
+    ],
+    [
+      "--tracking-ui-tight",
+      "0px"
+    ],
+    [
+      "--spacing-ui-4xl-old",
+      "calc(.25rem*20)"
+    ],
+    [
+      "--spacing-btn-vertical-small",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-section-padding-vertical-large",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-gap-md",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-5xl",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--tracking-ui-none-fixed",
+      "0px"
+    ],
+    [
+      "--tracking-ui-tighter",
+      "0px"
+    ],
+    [
+      "--tracking-ui-loose-fixed",
+      "1px"
+    ],
+    [
+      "--spacing-gap-4xl",
+      "calc(.25rem*10)"
+    ],
+    [
+      "--leading-ui-h2",
+      "1.1"
+    ],
+    [
+      "--spacing-sm-fixed",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--tracking-tight",
+      "-.025em"
+    ],
+    [
+      "--leading-ui-h1",
+      "1.1"
+    ],
+    [
+      "--spacing-xs-fixed",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-ui-section-y",
+      "calc(.25rem*24)"
+    ],
+    [
+      "--leading-ui-body-xs",
+      "1.4"
+    ],
+    [
+      "--spacing-md",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-xl",
+      "calc(.25rem*5)"
+    ],
+    [
+      "--spacing-gap-3xl",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--spacing-section-medium",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--spacing-xxs-fixed",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--spacing-btn-vertical-tertiary",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-gap-xxs-fixed",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--spacing-3xl-fixed",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-3xl",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--spacing-xs",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--tracking-ui-none",
+      "0px"
+    ],
+    [
+      "--spacing-lg-fixed",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-gap-xxs",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--leading-ui-h3",
+      "1.1"
+    ],
+    [
+      "--spacing-btn-vertical-standard",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-gap-md-fixed",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing-page-padding-horizontal",
+      "24px"
+    ],
+    [
+      "--leading-ui-body-sm",
+      "1.4"
+    ],
+    [
+      "--leading-ui-h6",
+      "1.4"
+    ],
+    [
+      "--spacing-gap-xl-fixed",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--spacing-gap-2xl-fixed",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-section-large",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-xxs",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--spacing-gap-3xl-fixed",
+      "calc(.25rem*14)"
+    ],
+    [
+      "--spacing-gap-8xl",
+      "calc(.25rem*20)"
+    ],
+    [
+      "--spacing-gap-lg-fixed",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-gap-xl",
+      "calc(.25rem*5)"
+    ],
+    [
+      "--tracking-ui-looser",
+      "0px"
+    ]
+  ]
+}

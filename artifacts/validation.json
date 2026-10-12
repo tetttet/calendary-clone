@@ -1,0 +1,10 @@
+{
+  "viewports": [1440, 1280, 768, 390],
+  "viewportHeight": 1000,
+  "horizontalOverflow": false,
+  "brokenLoadedImages": 0,
+  "runtimeErrorsDuringInteractionCheck": [],
+  "passedInteractions": ["desktop dropdown click", "Escape closes dropdown", "mobile menu", "Escape closes mobile menu", "hero tab selection", "product accordion selection", "accordion arrow keys", "customer carousel selection", "carousel arrow keys", "privacy dialog", "Escape closes privacy dialog", "reduced-motion styles"],
+  "checks": {"productionBuild": "passed", "typescript": "passed", "eslint": "passed"},
+  "notes": "Dynamic Rive frames depend on elapsed time. Next development image aspect-ratio warnings remain for small logos; production build succeeds. Full reference screenshots and final local screenshots are stored alongside this file."
+}

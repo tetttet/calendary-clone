@@ -1,0 +1,376 @@
+{
+  "computed": [
+    {
+      "text": "All the work around meetings, handled.",
+      "font": "",
+      "size": "72px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "Book meetings with the world’s #1 scheduling tool",
+      "font": "500 36px / 39.6px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "36px",
+      "spacing": "-1px"
+    },
+    {
+      "text": "Introducing your 24/7 AI scheduling assistant",
+      "font": "500 36px / 39.6px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "36px",
+      "spacing": "-1px"
+    },
+    {
+      "text": "Actionable, shareable recaps for every meeting",
+      "font": "500 36px / 39.6px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "36px",
+      "spacing": "-1px"
+    },
+    {
+      "text": "Flexible, built-in payment tools",
+      "font": "500 36px / 39.6px Geist, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "36px",
+      "spacing": "-1px"
+    },
+    {
+      "text": "Built for people whose work runs on meetings",
+      "font": "",
+      "size": "60px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "A better way to book your meetings",
+      "font": "500 48px / 52.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "48px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "Meet Callie, your AI assistant",
+      "font": "500 48px / 52.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "48px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "Actionable recaps for every meeting",
+      "font": "500 48px / 52.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "48px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "Flexible payment options that fit your business",
+      "font": "500 48px / 52.8px \"Wulkan Text\", system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+      "size": "48px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "Real customers. Real results.",
+      "font": "",
+      "size": "60px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "Connect Calendly with your favorite tools",
+      "font": "",
+      "size": "60px",
+      "spacing": "-2px"
+    },
+    {
+      "text": "From the first meeting to the follow-up",
+      "font": "",
+      "size": "60px",
+      "spacing": "-2px"
+    }
+  ],
+  "tokens": [
+    [
+      "--spacing-gap-lg",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--leading-ui-body-lg",
+      "1.4"
+    ],
+    [
+      "--leading-ui-body-xl",
+      "1.4"
+    ],
+    [
+      "--spacing-4xl",
+      "calc(.25rem*14)"
+    ],
+    [
+      "--leading-ui-overline",
+      "1"
+    ],
+    [
+      "--spacing-2xl",
+      "calc(.25rem*10)"
+    ],
+    [
+      "--spacing-section-small",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-sm",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--leading-ui-h5",
+      "1.4"
+    ],
+    [
+      "--leading-ui-body-md",
+      "1.4"
+    ],
+    [
+      "--leading-ui-huge",
+      "1.1"
+    ],
+    [
+      "--spacing-section-default",
+      "calc(.25rem*30)"
+    ],
+    [
+      "--leading-ui-h4",
+      "1.2"
+    ],
+    [
+      "--spacing-gap-2xl",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-gap-xs-fixed",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-md-fixed",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing-gap-4xl-fixed",
+      "calc(.25rem*16)"
+    ],
+    [
+      "--spacing-gap-sm",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--tracking-ui-tight-fixed",
+      "-1px"
+    ],
+    [
+      "--spacing-gap-sm-fixed",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-gap-xs",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-xl-fixed",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--leading-snug",
+      "1.375"
+    ],
+    [
+      "--spacing-2xl-fixed",
+      "calc(.25rem*10)"
+    ],
+    [
+      "--tracking-ui-loose",
+      "1px"
+    ],
+    [
+      "--leading-ui-caption",
+      "1.4"
+    ],
+    [
+      "--tracking-ui-tighter-fixed",
+      "-2px"
+    ],
+    [
+      "--spacing-lg",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing",
+      ".25rem"
+    ],
+    [
+      "--tracking-ui-tight",
+      "-1px"
+    ],
+    [
+      "--spacing-ui-4xl-old",
+      "calc(.25rem*20)"
+    ],
+    [
+      "--spacing-btn-vertical-small",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-section-padding-vertical-large",
+      "calc(.25rem*24)"
+    ],
+    [
+      "--spacing-gap-md",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing-5xl",
+      "calc(.25rem*16)"
+    ],
+    [
+      "--tracking-ui-none-fixed",
+      "0px"
+    ],
+    [
+      "--tracking-ui-tighter",
+      "-2px"
+    ],
+    [
+      "--tracking-ui-loose-fixed",
+      "1px"
+    ],
+    [
+      "--spacing-gap-4xl",
+      "calc(.25rem*16)"
+    ],
+    [
+      "--leading-ui-h2",
+      "1.1"
+    ],
+    [
+      "--spacing-sm-fixed",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--tracking-tight",
+      "-.025em"
+    ],
+    [
+      "--leading-ui-h1",
+      "1.1"
+    ],
+    [
+      "--spacing-xs-fixed",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-ui-section-y",
+      "calc(.25rem*24)"
+    ],
+    [
+      "--leading-ui-body-xs",
+      "1.4"
+    ],
+    [
+      "--spacing-md",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing-xl",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--spacing-gap-3xl",
+      "calc(.25rem*14)"
+    ],
+    [
+      "--spacing-section-medium",
+      "calc(.25rem*16)"
+    ],
+    [
+      "--spacing-xxs-fixed",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--spacing-btn-vertical-tertiary",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--spacing-gap-xxs-fixed",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--spacing-3xl-fixed",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-3xl",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-xs",
+      "calc(.25rem*2)"
+    ],
+    [
+      "--tracking-ui-none",
+      "0px"
+    ],
+    [
+      "--spacing-lg-fixed",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-gap-xxs",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--leading-ui-h3",
+      "1.1"
+    ],
+    [
+      "--spacing-btn-vertical-standard",
+      "calc(.25rem*3)"
+    ],
+    [
+      "--spacing-gap-md-fixed",
+      "calc(.25rem*4)"
+    ],
+    [
+      "--spacing-page-padding-horizontal",
+      "120px"
+    ],
+    [
+      "--leading-ui-body-sm",
+      "1.4"
+    ],
+    [
+      "--leading-ui-h6",
+      "1.4"
+    ],
+    [
+      "--spacing-gap-xl-fixed",
+      "calc(.25rem*8)"
+    ],
+    [
+      "--spacing-gap-2xl-fixed",
+      "calc(.25rem*12)"
+    ],
+    [
+      "--spacing-section-large",
+      "calc(.25rem*24)"
+    ],
+    [
+      "--spacing-xxs",
+      "calc(.25rem*1)"
+    ],
+    [
+      "--spacing-gap-3xl-fixed",
+      "calc(.25rem*14)"
+    ],
+    [
+      "--spacing-gap-8xl",
+      "calc(.25rem*32)"
+    ],
+    [
+      "--spacing-gap-lg-fixed",
+      "calc(.25rem*6)"
+    ],
+    [
+      "--spacing-gap-xl",
+      "calc(.25rem*8)"
+    ]
+  ]
+}

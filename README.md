@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Calendly homepage recreation
 
-## Getting Started
+Next.js App Router, TypeScript, Tailwind CSS and locally hosted Rive animations.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```sh
+pnpm install
+pnpm dev --port 3001
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3001. Production: `pnpm build` then `pnpm start`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The complete homepage is composed in `app/page.tsx`; interactive sections live in `components/`. Reference content is in `data/content.json`. Original public fonts, illustrations, portraits, SVG artwork, Rive files and the WASM runtime are served locally from `public/`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Implemented interactions include desktop dropdowns, mobile navigation, scroll-controlled hero tabs, workflow cards, product accordions, customer carousel, stepped conversion carousel, language links and local privacy preferences. Reduced-motion preferences are supported. Out-of-scope links lead to their original Calendly destinations. Authentication, payment processing and the third-party support backend are not simulated.
 
-## Learn More
+## Validation
 
-To learn more about Next.js, take a look at the following resources:
+- Playwright MCP inspected the live homepage and its animation assets.
+- Matching full-page screenshots captured at widths 1440, 1280, 768 and 390, with a 1000px viewport height; see `artifacts/`.
+- Production build, TypeScript and ESLint checks pass.
+- Keyboard navigation, tabs, accordions, carousel, mobile menu and privacy dialog checked in Playwright.
+- No horizontal overflow at the four target widths.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The recreation uses the original Rive demonstrations. Small differences remain in scroll transition curves, browser-specific rounded shapes, and dynamic animation frames. The support widget opens a local help panel linking to Calendly support. The privacy dialog stores only this recreation's preference locally.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The inspected reference contains canvas/Rive demonstrations, not native video elements. Downloaded reference scripts in `artifacts/` are inspection material and are not imported or executed by the application.

@@ -1,0 +1,329 @@
+{
+  "assets": [
+    "https://calendly.com/manifest.webmanifest",
+    "https://cdn.calendlycms.com/home-multihero-01-scheduling.riv",
+    "https://cdn.calendlycms.com/home-multihero-02-callie.riv",
+    "https://cdn.calendlycms.com/home-multihero-03-notetaker.riv",
+    "https://cdn.calendlycms.com/home-multihero-04-payments.riv",
+    "https://cdn.calendlycms.com/scheduling-homepage-hero-animation.riv",
+    "https://cdn.calendlycms.com/home-notetaker-01-clear-summaries-next-steps.riv",
+    "https://cdn.calendlycms.com/home-notetaker-02-predrafted-follow-up.riv",
+    "https://cdn.calendlycms.com/home-notetaker-03-works-with-tools.riv",
+    "https://cdn.calendlycms.com/home-notetaker-04-instant-meeting.riv",
+    "https://cdn.calendlycms.com/home-callie-01-cc-callie-email.riv",
+    "https://cdn.calendlycms.com/home-callie-02-precise-coordination.riv",
+    "https://cdn.calendlycms.com/home-callie-03-247-assistance.riv",
+    "https://cdn.calendlycms.com/home-payments-01-upfront-meeting.riv",
+    "https://cdn.calendlycms.com/home-payments-02-meeting-packages.riv",
+    "https://cdn.calendlycms.com/home-payments-03-invoices.riv",
+    "https://cdn.calendlycms.com/home-payments-04-payment-links.riv",
+    "https://cdn.calendlycms.com/home-scheduling-01-full-control.riv",
+    "https://cdn.calendlycms.com/home-scheduling-02-meeting-templates-scenario.riv",
+    "https://cdn.calendlycms.com/home-scheduling-03-automated-email.riv",
+    "https://cdn.calendlycms.com/home-scheduling-04-website-embeds.riv",
+    "https://cdn.calendlycms.com/home-scheduler05-whenever.riv",
+    "https://cdn.calendlycms.com/home-scheduling-06-tools-for-teams-all-sizes.riv"
+  ],
+  "sections": [
+    {
+      "id": "[Home]-Hero",
+      "cls": "flex w-full justify-center p-2 tb:p-6 bg-ramp-orange-025",
+      "heading": "Book meetings with the world’s #1 scheduling tool",
+      "buttons": [
+        {
+          "text": "Sign up with Google",
+          "expanded": null
+        },
+        {
+          "text": "Sign up with Microsoft",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n",
+          "expanded": null
+        },
+        {
+          "text": "\n\n\n\n\n\n",
+          "expanded": null
+        },
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n",
+          "expanded": null
+        },
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "",
+      "cls": "flex w-full justify-center p-2 tb:p-6 bg-ramp-orange-025",
+      "buttons": [
+        {
+          "text": "Sign up with Google",
+          "expanded": null
+        },
+        {
+          "text": "Sign up with Microsoft",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "",
+      "cls": "flex w-full justify-center p-2 tb:p-6 bg-ramp-orange-025",
+      "heading": "Built for people whose work runs on meetings",
+      "buttons": [
+        {
+          "text": "Book",
+          "expanded": null
+        },
+        {
+          "text": "Prep",
+          "expanded": null
+        },
+        {
+          "text": "Capture",
+          "expanded": null
+        },
+        {
+          "text": "Follow up",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default pb-section-small",
+      "heading": "There’s more to meetings than finding a time.",
+      "buttons": []
+    },
+    {
+      "id": "[Home]-AccordionSwitchbacks-Scheduling",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "heading": "A better way to book your meetings",
+      "buttons": [
+        {
+          "text": "Full control over your calendar",
+          "expanded": "true"
+        },
+        {
+          "text": "Meeting templates for every scenario",
+          "expanded": "false"
+        },
+        {
+          "text": "Automated email & text workflows",
+          "expanded": "false"
+        },
+        {
+          "text": "Website embeds and routing forms",
+          "expanded": "false"
+        },
+        {
+          "text": "Scheduling whenever, wherever",
+          "expanded": "false"
+        },
+        {
+          "text": "Tools for teams of all sizes",
+          "expanded": "false"
+        }
+      ]
+    },
+    {
+      "id": "[Home]-AccordionSwitchbacks-Callie",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "heading": "Meet Callie, your AI assistant",
+      "buttons": [
+        {
+          "text": "Conversational scheduling",
+          "expanded": "true"
+        },
+        {
+          "text": "Precise coordination",
+          "expanded": "false"
+        },
+        {
+          "text": "24/7 assistance with meeting tasks",
+          "expanded": "false"
+        }
+      ]
+    },
+    {
+      "id": "[Home]-AccordionSwitchbacks-Notetaker",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "heading": "Actionable recaps for every meeting",
+      "buttons": [
+        {
+          "text": "Clear summaries with next steps",
+          "expanded": "true"
+        },
+        {
+          "text": "Pre-drafted follow-up emails",
+          "expanded": "false"
+        },
+        {
+          "text": "Works with your tools",
+          "expanded": "false"
+        },
+        {
+          "text": "Instant meeting recall",
+          "expanded": "false"
+        }
+      ]
+    },
+    {
+      "id": "[Home]-AccordionSwitchbacks-Payments",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "heading": "Flexible payment options that fit your business",
+      "buttons": [
+        {
+          "text": "Upfront meeting payments",
+          "expanded": "true"
+        },
+        {
+          "text": "Meeting packages",
+          "expanded": "false"
+        },
+        {
+          "text": "Invoices",
+          "expanded": "false"
+        },
+        {
+          "text": "Payment links",
+          "expanded": "false"
+        }
+      ]
+    },
+    {
+      "id": "[Home]-CustomerStories",
+      "cls": "flex w-full justify-center relative py-section-default dark",
+      "heading": "Real customers. Real results.",
+      "buttons": [
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "[Home]-Integrations-ConnectCalendlywithyourfavoritetools",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "heading": "Connect Calendly with your favorite tools",
+      "buttons": []
+    },
+    {
+      "id": "",
+      "cls": "flex w-full justify-center bg-surface-bg-primary py-section-default",
+      "heading": "From the first meeting to the follow-up",
+      "buttons": []
+    },
+    {
+      "id": "",
+      "cls": "ot-sdk-row ot-cat-grp",
+      "buttons": [
+        {
+          "text": "",
+          "expanded": "false"
+        },
+        {
+          "text": "Cookie Details‎",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": "false"
+        },
+        {
+          "text": "Cookie Details‎",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": "false"
+        },
+        {
+          "text": "Cookie Details‎",
+          "expanded": null
+        },
+        {
+          "text": "",
+          "expanded": "false"
+        },
+        {
+          "text": "Cookie Details‎",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "ot-pc-lst",
+      "cls": "ot-hide ot-pc-scrollbar",
+      "buttons": [
+        {
+          "text": "Back Button",
+          "expanded": null
+        },
+        {
+          "text": "Filter Icon",
+          "expanded": null
+        },
+        {
+          "text": "Clear",
+          "expanded": null
+        },
+        {
+          "text": "Apply",
+          "expanded": null
+        },
+        {
+          "text": "Cancel",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "ot-fltr-modal",
+      "cls": "",
+      "buttons": [
+        {
+          "text": "Clear",
+          "expanded": null
+        },
+        {
+          "text": "Apply",
+          "expanded": null
+        },
+        {
+          "text": "Cancel",
+          "expanded": null
+        }
+      ]
+    },
+    {
+      "id": "ot-lst-cnt",
+      "cls": "ot-pc-scrollbar",
+      "buttons": []
+    }
+  ]
+}

@@ -1,0 +1,3157 @@
+{
+  "styles": [
+    "https://calendly.com/_astro/layouts.Bf65L7qA.css",
+    "https://calendly.com/_astro/src.CY4XUkqM.css",
+    "https://calendly.com/_astro/PdfEmbed.DUl7Si7L.css",
+    "https://calendly.com/_astro/src.lnULwviv.css"
+  ],
+  "fonts": [
+    "https://calendly.com/_astro/geist-latin.BfrrXRGr.woff2",
+    "https://calendly.com/_astro/calendly-sans-variable.D6oRyvrG.woff2",
+    "https://calendly.com/_astro/wulkan-text-medium.7dXcUwno.woff2"
+  ],
+  "islands": [
+    {
+      "component": "StatsigHomepageHeaderIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "locale": "en-US",
+        "ctaTalkToSales": "Talk to sales",
+        "ctaLogin": "Log In",
+        "ctaSignup": "Get started for free",
+        "ctaSignupShort": "Get started",
+        "ctaMyAccount": "My Account",
+        "announcementBanner": {
+          "id": "15",
+          "heading": "Introducing the new Calendly, built to handle all of the work around meetings.",
+          "icon": {
+            "icon": "IconSpeakerphone",
+            "alt": ""
+          },
+          "backgroundColor": "blue",
+          "linkLabel": "Learn more",
+          "linkHref": "/blog/new-calendly",
+          "targetGroup": "all",
+          "includeOn": [
+            "/**",
+            "/legal"
+          ],
+          "doNotShow": [
+            "/login",
+            "/signup",
+            "/landing",
+            "/landing/**",
+            "/contact",
+            "/contact/**",
+            "/blog",
+            "/blog/**",
+            "/newsroom",
+            "/newsroom/**",
+            "/integration/**",
+            "/integration",
+            "/solutions",
+            "/solutions/**"
+          ]
+        },
+        "menuLinks": [
+          {
+            "id": "97",
+            "label": "Products",
+            "link": "/features",
+            "submenu": [
+              {
+                "id": "210",
+                "label": "PRODUCTS",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "212",
+                    "label": "Scheduling",
+                    "link": "/features/scheduling",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "220",
+                    "label": "Notetaker",
+                    "link": "/notetaker",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "229",
+                    "label": "Contacts",
+                    "link": "/contacts",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "227",
+                    "label": "Payments",
+                    "link": "/payments",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "213",
+                    "label": "Overview",
+                    "link": "/features",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "218",
+                "label": "PLATFORM",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "215",
+                    "label": "Integrations",
+                    "link": "/integration",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "217",
+                    "label": "Mobile app",
+                    "link": "/features/mobile-apps",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "214",
+                    "label": "Browser extension",
+                    "link": "/features/browser-extensions",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "216",
+                    "label": "Admin controls",
+                    "link": "/features/admin-management",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "219",
+                    "label": "Security",
+                    "link": "/security",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "146",
+            "label": "Solutions",
+            "link": "/solutions",
+            "submenu": [
+              {
+                "id": "148",
+                "label": "By business size",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "1",
+                    "label": "Individuals",
+                    "link": "/solutions/individuals",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "150",
+                    "label": "Small business",
+                    "link": "/solutions/small-business",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "8",
+                    "label": "Large companies",
+                    "link": "/solutions/enterprise",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "140",
+                "label": "By team",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "14",
+                    "label": "Sales",
+                    "link": "/solutions/sales",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "57",
+                    "label": "Marketing",
+                    "link": "/solutions/marketing",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "54",
+                    "label": "Customer Success",
+                    "link": "/solutions/customer-success",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "15",
+                    "label": "Recruiting",
+                    "link": "/solutions/recruiting",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "141",
+                "label": "By industry",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "144",
+                    "label": "Education",
+                    "link": "/solutions/education",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "142",
+                    "label": "Technology",
+                    "link": "/solutions/technology",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "143",
+                    "label": "Financial Services",
+                    "link": "/solutions/financial-services",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "145",
+                    "label": "Professional Services",
+                    "link": "/solutions/professional-services",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "label": "Resources",
+            "link": "/resources",
+            "submenu": [
+              {
+                "id": "82",
+                "label": "Get started",
+                "link": "/resources",
+                "submenu": [
+                  {
+                    "id": "89",
+                    "label": "Learning hub",
+                    "link": "/learn",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "223",
+                    "label": "Developer docs",
+                    "link": "https://developer.calendly.com",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "226",
+                    "label": "Product tour",
+                    "link": "/contact/demo",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "225",
+                "label": "Discover",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "93",
+                    "label": "Blog",
+                    "link": "/blog",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "222",
+                    "label": "What's new",
+                    "link": "/release-notes",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "91",
+                    "label": "Guides & webinars",
+                    "link": "/resources",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "80",
+                    "label": "Customer stories",
+                    "link": "/customers",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "94",
+                    "label": "About",
+                    "link": "/about",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "21",
+                    "label": "Newsroom",
+                    "link": "/newsroom",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "label": "Support",
+                "link": [
+                  0
+                ],
+                "submenu": [
+                  {
+                    "id": "90",
+                    "label": "Help center",
+                    "link": "/help",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "96",
+                    "label": "Community",
+                    "link": "https://community.calendly.com",
+                    "submenu": [
+                      0
+                    ]
+                  },
+                  {
+                    "id": "83",
+                    "label": "Contact us",
+                    "link": "/contact-us",
+                    "submenu": [
+                      0
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "label": "Pricing",
+            "link": "/pricing",
+            "submenu": [
+              0
+            ]
+          }
+        ],
+        "variant": "contained",
+        "bordered": false,
+        "wide": true,
+        "className": [
+          0
+        ],
+        "mode": [
+          0
+        ]
+      }
+    },
+    {
+      "component": "HeroIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "layout": "single",
+        "headingMarkup": "All the work around meetings, handled.",
+        "headingSize": "huge",
+        "body": "From AI-powered scheduling to automated meeting recaps and follow-ups, get the busywork done with fewer tools and less effort.",
+        "additionalBody": {
+          "root": {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Sign up with email",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "link",
+                    "version": 3,
+                    "fields": {
+                      "url": "https://calendly.com/signup",
+                      "linkType": "custom"
+                    },
+                    "id": "6a7079b3b1331a70a06e3f63"
+                  },
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "  \u2022  No credit card required",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "paragraph",
+                "version": 1,
+                "textFormat": 0,
+                "textStyle": ""
+              }
+            ],
+            "direction": null,
+            "format": "",
+            "indent": 0,
+            "type": "root",
+            "version": 1
+          }
+        },
+        "primaryCta": {
+          "label": "Sign up with Google",
+          "href": [
+            0
+          ],
+          "variant": "oauth-primary",
+          "imageSrc": [
+            0
+          ],
+          "imageAlt": [
+            0
+          ],
+          "iconPlacement": "left",
+          "buttonType": "oauth-primary",
+          "iconName": "Google",
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Sign up with Google",
+            "destination": "",
+            "location": "Rich text button"
+          }
+        },
+        "secondaryCta": {
+          "label": "Sign up with Microsoft",
+          "href": [
+            0
+          ],
+          "variant": "oauth-primary",
+          "imageSrc": "https://cdn.calendlycms.com/microsoftLogo.svg",
+          "imageAlt": "Microsoft Logo",
+          "iconPlacement": "left",
+          "buttonType": "oauth-login-primary",
+          "iconName": "Microsoft",
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Sign up with Microsoft",
+            "destination": "",
+            "location": "Rich text button"
+          }
+        },
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "eyebrowData": [
+          0
+        ],
+        "referenceItems": [
+          0
+        ],
+        "referencePosition": "below",
+        "referenceFrame": "none",
+        "whiteBars": false,
+        "shadowBox": false,
+        "showIndicator": false,
+        "testId": "section-single-column-hero",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "MultiProductHeroInteractive",
+      "url": "/_astro/MultiProductHeroInteractive.Crt69DZn.js",
+      "props": {
+        "tabs": [
+          {
+            "id": "6a633fb8011c53eba57823ae",
+            "product": "scheduling",
+            "label": "Scheduling",
+            "heading": "Book meetings with the world\u2019s #1 scheduling tool",
+            "body": "Giving you complete control and total customization, Calendly is the easiest and most powerful way to find time to connect.",
+            "badge": [
+              0
+            ],
+            "caption": [
+              0
+            ],
+            "cta": {
+              "label": "Learn more",
+              "href": "https://calendly.com/scheduling",
+              "variant": "tertiary-underline",
+              "imageSrc": [
+                0
+              ],
+              "imageAlt": [
+                0
+              ],
+              "iconPlacement": "right",
+              "buttonType": "link-dark",
+              "iconName": "Arrow Right",
+              "popup": [
+                0
+              ],
+              "loggedIn": [
+                0
+              ],
+              "trackEvent": {
+                "text": "Learn more",
+                "destination": "https://calendly.com/scheduling",
+                "location": "Rich text button"
+              }
+            },
+            "visual": {
+              "type": "rive",
+              "src": "https://cdn.calendlycms.com/home-multihero-01-scheduling.riv",
+              "aspectRatio": ""
+            }
+          },
+          {
+            "id": "6a639a3096f67d11758530cc",
+            "product": "callie",
+            "label": "Callie",
+            "heading": "Introducing your 24/7 AI scheduling assistant",
+            "body": "Add Callie to any email thread to coordinate scheduling on your behalf without switching tools or sacrificing control.",
+            "badge": "Beta",
+            "caption": "",
+            "cta": {
+              "label": "Learn more",
+              "href": "https://calendly.com/ai-assistant",
+              "variant": "tertiary-underline",
+              "imageSrc": [
+                0
+              ],
+              "imageAlt": [
+                0
+              ],
+              "iconPlacement": "right",
+              "buttonType": "link-dark",
+              "iconName": "Arrow Right",
+              "popup": [
+                0
+              ],
+              "loggedIn": [
+                0
+              ],
+              "trackEvent": {
+                "text": "Learn more",
+                "destination": "https://calendly.com/ai-assistant",
+                "location": "Rich text button"
+              }
+            },
+            "visual": {
+              "type": "rive",
+              "src": "https://cdn.calendlycms.com/home-multihero-02-callie.riv",
+              "aspectRatio": ""
+            }
+          },
+          {
+            "id": "6a639bb396f67d11758530cd",
+            "product": "notetaker",
+            "label": "Notetaker",
+            "heading": "Actionable, shareable recaps for every meeting",
+            "body": "Finish the day knowing every meeting was captured, next steps were tracked, and follow-ups were handled.",
+            "badge": "New",
+            "caption": "",
+            "cta": {
+              "label": "Learn more",
+              "href": "https://calendly.com/notetaker",
+              "variant": "tertiary-underline",
+              "imageSrc": [
+                0
+              ],
+              "imageAlt": [
+                0
+              ],
+              "iconPlacement": "right",
+              "buttonType": "link-dark",
+              "iconName": "Arrow Right",
+              "popup": [
+                0
+              ],
+              "loggedIn": [
+                0
+              ],
+              "trackEvent": {
+                "text": "Learn more",
+                "destination": "https://calendly.com/notetaker",
+                "location": "Rich text button"
+              }
+            },
+            "visual": {
+              "type": "rive",
+              "src": "https://cdn.calendlycms.com/home-multihero-03-notetaker.riv",
+              "aspectRatio": ""
+            }
+          },
+          {
+            "id": "6a639c5e96f67d11758530ce",
+            "product": "payments",
+            "label": "Payments",
+            "heading": "Flexible, built-in payment tools",
+            "body": "Charge upfront for meetings, sell packages, and send invoices with payment features that make it easy to get paid.",
+            "badge": "New",
+            "caption": "",
+            "cta": {
+              "label": "Learn more",
+              "href": "https://calendly.com/payments",
+              "variant": "tertiary-underline",
+              "imageSrc": [
+                0
+              ],
+              "imageAlt": [
+                0
+              ],
+              "iconPlacement": "right",
+              "buttonType": "link-dark",
+              "iconName": "Arrow Right",
+              "popup": [
+                0
+              ],
+              "loggedIn": [
+                0
+              ],
+              "trackEvent": {
+                "text": "Learn more",
+                "destination": "https://calendly.com/payments",
+                "location": "Rich text button"
+              }
+            },
+            "visual": {
+              "type": "rive",
+              "src": "https://cdn.calendlycms.com/home-multihero-04-payments.riv",
+              "aspectRatio": ""
+            }
+          }
+        ],
+        "background": "product-switcher-gradient",
+        "primaryCta": {
+          "label": "Sign up with Google",
+          "href": [
+            0
+          ],
+          "variant": "oauth-primary",
+          "imageSrc": [
+            0
+          ],
+          "imageAlt": [
+            0
+          ],
+          "iconPlacement": "left",
+          "buttonType": "oauth-primary",
+          "iconName": "Google",
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Sign up with Google",
+            "destination": "",
+            "location": "Rich text button"
+          }
+        },
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "sectionLayoutManaged": true,
+        "testId": "section-hero",
+        "enableHomepageNavScrolljackExperiment": true
+      }
+    },
+    {
+      "component": "HeroIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "layout": "single",
+        "headingMarkup": "Easy scheduling ahead.",
+        "headingSize": "huge",
+        "body": "Join 20 million professionals who easily book meetings with the #1 scheduling tool.",
+        "additionalBody": {
+          "root": {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Sign up with email",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "link",
+                    "version": 3,
+                    "fields": {
+                      "url": "https://calendly.com/signup",
+                      "linkType": "custom"
+                    },
+                    "id": "6aa8150e29a9a5be447ed630"
+                  },
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "  \u2022  No credit card required",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "paragraph",
+                "version": 1,
+                "textFormat": 0,
+                "textStyle": ""
+              }
+            ],
+            "direction": null,
+            "format": "",
+            "indent": 0,
+            "type": "root",
+            "version": 1
+          }
+        },
+        "primaryCta": {
+          "label": "Sign up with Google",
+          "href": [
+            0
+          ],
+          "variant": "oauth-primary",
+          "imageSrc": [
+            0
+          ],
+          "imageAlt": [
+            0
+          ],
+          "iconPlacement": "left",
+          "buttonType": "oauth-primary",
+          "iconName": "Google",
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Sign up with Google",
+            "destination": "",
+            "location": "Rich text button"
+          }
+        },
+        "secondaryCta": {
+          "label": "Sign up with Microsoft",
+          "href": [
+            0
+          ],
+          "variant": "oauth-primary",
+          "imageSrc": "https://cdn.calendlycms.com/microsoftLogo.svg",
+          "imageAlt": "Microsoft Logo",
+          "iconPlacement": "left",
+          "buttonType": "oauth-login-primary",
+          "iconName": "Microsoft",
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Sign up with Microsoft",
+            "destination": "",
+            "location": "Rich text button"
+          }
+        },
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "eyebrowData": [
+          0
+        ],
+        "referenceItems": [
+          {
+            "type": "rive",
+            "src": "https://cdn.calendlycms.com/scheduling-homepage-hero-animation.riv",
+            "aspectRatio": "978/486"
+          }
+        ],
+        "referencePosition": "below",
+        "referenceFrame": "bars",
+        "whiteBars": true,
+        "shadowBox": false,
+        "showIndicator": false,
+        "testId": "section-single-column-hero",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "HeadingIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "alignment": "centered",
+        "title": "Built for people whose work runs on meetings",
+        "headingSize": "h1",
+        "headingFont": "calendly-sans",
+        "eyebrow": {
+          "variant": "eyebrowOverline",
+          "badgeLabel": "AI meeting management",
+          "accompanyingBadgeLabel": [
+            0
+          ],
+          "badgeSize": "standard"
+        },
+        "body": "Meetings move you forward, but the work around them can slow you down. Calendly handles the tasks before, during, and after meetings, so you have more space for what matters.",
+        "caption": [
+          0
+        ],
+        "primaryCta": {
+          "label": "Start for free",
+          "href": "https://calendly.com/signup",
+          "variant": "primary",
+          "imageSrc": [
+            0
+          ],
+          "imageAlt": [
+            0
+          ],
+          "iconPlacement": "right",
+          "buttonType": "primary",
+          "iconName": [
+            0
+          ],
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Start for free",
+            "destination": "https://calendly.com/signup",
+            "location": "Rich text button"
+          }
+        },
+        "secondaryCta": [
+          0
+        ],
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "locale": "en-US",
+        "isHero": [
+          0
+        ],
+        "testId": "section-heading"
+      }
+    },
+    {
+      "component": "TimelineFeatureDeck",
+      "url": "/_astro/index.D9fBMceg.js",
+      "props": {
+        "cards": [
+          {
+            "heading": "Book",
+            "restingDescription": "Book the meeting and get paid with zero back-and-forth.",
+            "activeContent": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "A client emails asking to meet. Share a booking link or ask Callie, your AI assistant, to find times that work for everyone.",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  },
+                  {
+                    "type": "block",
+                    "version": 2,
+                    "format": "",
+                    "fields": {
+                      "id": "6a7b84d02b4c1f73142565bc",
+                      "blockName": "",
+                      "items": [
+                        {
+                          "id": "6a7b84d3ed31a43a64f6325b",
+                          "text": "Callie replies with times to meet",
+                          "product": "callie"
+                        },
+                        {
+                          "id": "6a7b84dced31a43a64f6325c",
+                          "text": "Client picks Tuesday at 2 p.m.",
+                          "product": "scheduling"
+                        },
+                        {
+                          "id": "6a7b84e5ed31a43a64f6325d",
+                          "text": "Client pays $150 deposit upfront",
+                          "product": "payments"
+                        }
+                      ],
+                      "blockType": "timeline"
+                    }
+                  },
+                  {
+                    "children": [],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "activeBackgroundGradient": {
+              "src": "https://cdn.calendlycms.com/book-active-bg-gradient-1.png"
+            },
+            "restingVisual": {
+              "src": "https://cdn.calendlycms.com/book-inactive.png",
+              "alt": ""
+            },
+            "activeVisual": {
+              "type": "image",
+              "src": "https://cdn.calendlycms.com/book-active-foreground-1.png",
+              "alt": ""
+            }
+          },
+          {
+            "heading": "Prep",
+            "restingDescription": "Never walk into a meeting cold.",
+            "activeContent": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Before the meeting, get all of the info you need in one place. Callie reviews your client's contact history and helps you show up prepared.",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  },
+                  {
+                    "type": "block",
+                    "version": 2,
+                    "format": "",
+                    "fields": {
+                      "id": "6a7b87492b4c1f73142565bd",
+                      "blockName": "",
+                      "items": [
+                        {
+                          "id": "6a7b874bed31a43a64f63261",
+                          "text": "Contact details automatically update",
+                          "product": "contacts"
+                        },
+                        {
+                          "id": "6a7b8765ed31a43a64f63262",
+                          "text": "Your client interactions are in one place",
+                          "product": "contacts"
+                        },
+                        {
+                          "id": "6a7b8771ed31a43a64f63263",
+                          "text": "Callie helps you prep",
+                          "product": "callie"
+                        }
+                      ],
+                      "blockType": "timeline"
+                    }
+                  },
+                  {
+                    "children": [],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "activeBackgroundGradient": {
+              "src": "https://cdn.calendlycms.com/prep-active-bg-gradient-1.png"
+            },
+            "restingVisual": {
+              "src": "https://cdn.calendlycms.com/prep-inactive.png",
+              "alt": ""
+            },
+            "activeVisual": {
+              "type": "image",
+              "src": "https://cdn.calendlycms.com/prep-active-foreground-1.png",
+              "alt": ""
+            }
+          },
+          {
+            "heading": "Capture",
+            "restingDescription": "Focus on the conversation. Notetaker handles the notes.",
+            "activeContent": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "While you run the meeting, Notetaker captures the conversation. The recap and action items are delivered right after the call.",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  },
+                  {
+                    "type": "block",
+                    "version": 2,
+                    "format": "",
+                    "fields": {
+                      "id": "6a7b87962b4c1f73142565be",
+                      "blockName": "",
+                      "items": [
+                        {
+                          "id": "6a7b8798ed31a43a64f63264",
+                          "text": "Notetaker joins and takes notes",
+                          "product": "notetaker"
+                        },
+                        {
+                          "id": "6a7b87a1ed31a43a64f63265",
+                          "text": "You get a ready-to-share recap",
+                          "product": "notetaker"
+                        },
+                        {
+                          "id": "6a7b87aeed31a43a64f63266",
+                          "text": "Recap is stored in contact profile",
+                          "product": "contacts"
+                        }
+                      ],
+                      "blockType": "timeline"
+                    }
+                  },
+                  {
+                    "children": [],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "activeBackgroundGradient": {
+              "src": "https://cdn.calendlycms.com/capture-active-bg-gradient-1.png"
+            },
+            "restingVisual": {
+              "src": "https://cdn.calendlycms.com/capture-inactive.png",
+              "alt": ""
+            },
+            "activeVisual": {
+              "type": "image",
+              "src": "https://cdn.calendlycms.com/capture-active-foreground-1.png",
+              "alt": ""
+            }
+          },
+          {
+            "heading": "Follow up",
+            "restingDescription": "Work moves forward after the meeting ends.",
+            "activeContent": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Review a pre-drafted email based on the recap, add an additional invoice link if needed, and add Callie to the email to handle scheduling.",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  },
+                  {
+                    "type": "block",
+                    "version": 2,
+                    "format": "",
+                    "fields": {
+                      "id": "6a7b87c32b4c1f73142565bf",
+                      "blockName": "",
+                      "items": [
+                        {
+                          "id": "6a7b87c7ed31a43a64f63267",
+                          "text": "Notetaker drafts a follow-up email",
+                          "product": "notetaker"
+                        },
+                        {
+                          "id": "6a7b8800ed31a43a64f63269",
+                          "text": "Callie finds time for the next call",
+                          "product": "callie"
+                        },
+                        {
+                          "id": "6a7b8808ed31a43a64f6326a",
+                          "text": "Client pays via custom invoice",
+                          "product": "payments"
+                        }
+                      ],
+                      "blockType": "timeline"
+                    }
+                  },
+                  {
+                    "children": [],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "activeBackgroundGradient": {
+              "src": "https://cdn.calendlycms.com/follow-active-bg-gradient-1.png"
+            },
+            "restingVisual": {
+              "src": "https://cdn.calendlycms.com/follow-up-inactive.png",
+              "alt": ""
+            },
+            "activeVisual": {
+              "type": "image",
+              "src": "https://cdn.calendlycms.com/follow-up-active-foreground-1.png",
+              "alt": ""
+            }
+          }
+        ],
+        "locale": "en-US",
+        "testId": "section-timeline-feature-deck"
+      }
+    },
+    {
+      "component": "HeadingIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "alignment": "centered",
+        "title": "There\u2019s more to meetings than finding a time.",
+        "headingSize": "h1",
+        "headingFont": "calendly-sans",
+        "eyebrow": {
+          "variant": "badge",
+          "badgeLabel": "",
+          "productLogo": [
+            "scheduling",
+            "callie",
+            "notetaker",
+            "payments"
+          ],
+          "productLogoSize": "iconOnly",
+          "badgeColor": "info",
+          "badgeSize": "standard",
+          "badgeHref": [
+            0
+          ],
+          "reversed": false
+        },
+        "body": "Book meetings, capture discussions and decisions, and keep next steps moving with tools that help you handle the work before, during, and after every meeting.",
+        "caption": [
+          0
+        ],
+        "primaryCta": [
+          0
+        ],
+        "secondaryCta": [
+          0
+        ],
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "locale": "en-US",
+        "isHero": [
+          0
+        ],
+        "testId": "section-heading"
+      }
+    },
+    {
+      "component": "StickyCarouselIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "eyebrowData": {
+          "variant": "badge",
+          "badgeLabel": "",
+          "productLogo": [
+            "scheduling"
+          ],
+          "productLogoSize": "small",
+          "badgeColor": "default",
+          "badgeSize": "standard",
+          "badgeHref": [
+            0
+          ],
+          "reversed": [
+            0
+          ]
+        },
+        "heading": "A better way to book your meetings",
+        "headingFont": [
+          0
+        ],
+        "description": "",
+        "items": [
+          {
+            "icon": {
+              "icon": "product-icon__calendar-link",
+              "alt": "",
+              "url": "https://cdn.calendlycms.com/calendar-link.svg",
+              "svgContent": [
+                0
+              ]
+            },
+            "title": "Full control over your calendar",
+            "description": "Connect your calendars, set your hours, and control exactly when you're available to meet.",
+            "visual": "",
+            "riveFileSrc": "https://cdn.calendlycms.com/home-scheduling-01-full-control.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "href": "https://calendly.com/scheduling"
+          },
+          {
+            "icon": {
+              "icon": "IconTextCaption",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "title": "Meeting templates for every scenario",
+            "description": "From one-on-one calls to multi-host meetings, pre-built event types make scheduling easy for everyone.",
+            "visual": "",
+            "riveFileSrc": "https://cdn.calendlycms.com/home-scheduling-02-meeting-templates-scenario.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "href": "https://calendly.com/scheduling"
+          },
+          {
+            "icon": {
+              "icon": "IconWindmill",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "title": "Automated email & text workflows",
+            "description": "Reduce no-shows with personalized email and text reminders, and let invitees reschedule when needed without the back-and-forth.",
+            "visual": "",
+            "riveFileSrc": "https://cdn.calendlycms.com/home-scheduling-03-automated-email.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "href": "https://calendly.com/scheduling"
+          },
+          {
+            "icon": {
+              "icon": "IconTemplate",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "title": "Website embeds and routing forms",
+            "description": "Let visitors schedule right from your website. Add routing forms to qualify leads and match them with the right team member.",
+            "visual": "",
+            "riveFileSrc": "https://cdn.calendlycms.com/home-scheduling-04-website-embeds.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "href": "https://calendly.com/scheduling"
+          },
+          {
+            "icon": {
+              "icon": "IconApps",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "title": "Scheduling whenever, wherever",
+            "description": "Access Calendly from the mobile app or browser extension, or use it with your favorite AI tool, LinkedIn, or 150+ other integrations.",
+            "visual": "",
+            "riveFileSrc": "https://cdn.calendlycms.com/home-scheduler05-whenever.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "href": "https://calendly.com/scheduling"
+          },
+          {
+            "icon": {
+              "icon": "IconUsersGroup",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "title": "Tools for teams of all sizes",
+            "description": "Grow your business with scheduling that scales. Add teammates, set permissions, and manage access without switching tools.",
+            "visual": "",
+            "riveFileSrc": "https://cdn.calendlycms.com/home-scheduling-06-tools-for-teams-all-sizes.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "href": "https://calendly.com/scheduling"
+          }
+        ],
+        "reversed": false,
+        "locale": "en-US",
+        "location": "[Home] - Accordion Switchback - Scheduling - A better way to book meetings",
+        "testId": "section-sticky-carousel"
+      }
+    },
+    {
+      "component": "FeatureAccordionIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "items": [
+          {
+            "title": "Conversational scheduling",
+            "description": "Instead of managing scheduling links and calendars yourself, just add callie@calendly.com to the email thread. Say what you need and let Callie take it from there.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-callie-01-cc-callie-email.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconAt",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/ai-assistant",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Precise coordination",
+            "description": "Callie runs on your Calendly availability preferences, weighs conflicts and constraints, and always checks with you before making one-off updates.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-callie-02-precise-coordination.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "product-icon__ai-calendar",
+              "alt": "",
+              "url": "https://cdn.calendlycms.com/ai-calendar.svg",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/ai-assistant",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "24/7 assistance with meeting tasks",
+            "description": "In Calendly, ask Callie for help with scheduling, meeting prep, recalling conversation and contact details, and more.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-callie-03-247-assistance.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconMessages",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/ai-assistant",
+            "backgroundShape": [
+              0
+            ]
+          }
+        ],
+        "eyebrowData": {
+          "variant": "badge",
+          "badgeLabel": "Beta",
+          "productLogo": [
+            "callie"
+          ],
+          "productLogoSize": "small",
+          "badgeColor": "default",
+          "badgeSize": "standard",
+          "badgeHref": [
+            0
+          ],
+          "reversed": [
+            0
+          ]
+        },
+        "heading": "Meet Callie, your AI assistant",
+        "headingFont": "wulkan",
+        "description": [
+          0
+        ],
+        "progressColor": "lime",
+        "reverse": true,
+        "singleColumn": false,
+        "disableAutoplay": false,
+        "testId": "section-feature-accordion",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "FeatureAccordionIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "items": [
+          {
+            "title": "Clear summaries with next steps",
+            "description": "End every call with meeting summaries and next steps, so nothing falls through the cracks.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-notetaker-01-clear-summaries-next-steps.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconList",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/notetaker",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Pre-drafted follow-up emails",
+            "description": "Follow up faster with a ready-to-share recap and action items. Password-protect recaps or auto-share with attendees.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-notetaker-02-predrafted-follow-up.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconContract",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/notetaker",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Works with your tools",
+            "description": "Add Notetaker to Zoom, Google Meet, and Teams meetings \u2014 even ones booked outside Calendly. Sync recaps to your CRM.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-notetaker-03-works-with-tools.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconApps",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/notetaker",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Instant meeting recall",
+            "description": "See a contact's full meeting history in one place. Ask Callie about any recap and get answers instantly.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-notetaker-04-instant-meeting.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconSparkles",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/notetaker",
+            "backgroundShape": [
+              0
+            ]
+          }
+        ],
+        "eyebrowData": {
+          "variant": "badge",
+          "badgeLabel": "New",
+          "productLogo": [
+            "notetaker"
+          ],
+          "productLogoSize": "small",
+          "badgeColor": "default",
+          "badgeSize": "standard",
+          "badgeHref": [
+            0
+          ],
+          "reversed": [
+            0
+          ]
+        },
+        "heading": "Actionable recaps for every meeting",
+        "headingFont": "wulkan",
+        "description": [
+          0
+        ],
+        "progressColor": "lilac",
+        "reverse": false,
+        "singleColumn": false,
+        "disableAutoplay": false,
+        "testId": "section-feature-accordion",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "FeatureAccordionIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "items": [
+          {
+            "title": "Upfront meeting payments",
+            "description": "Collect payment when clients book with you, so you can get paid sooner and reduce no-shows.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-payments-01-upfront-meeting.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "product-icon__calendly-payments",
+              "alt": "",
+              "url": "https://cdn.calendlycms.com/calendly-payments.svg",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/payments",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Meeting packages",
+            "description": "Sell multi-session bundles clients can purchase once and schedule over time \u2014 ideal for ongoing client work like coaching and consulting.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-payments-02-meeting-packages.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconCube",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/payments",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Invoices",
+            "description": "Send professional branded invoices for post-meeting billing, installments, or project-based work, with built-in tracking and reminders.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-payments-03-invoices.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconReceipt",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/payments",
+            "backgroundShape": [
+              0
+            ]
+          },
+          {
+            "title": "Payment links",
+            "description": "Share payment links to quickly request payment for anything, anytime \u2014 from one-off services to follow-up fees.",
+            "visual": "",
+            "visualAlt": [
+              0
+            ],
+            "riveFileSrc": "https://cdn.calendlycms.com/home-payments-04-payment-links.riv",
+            "riveAspectRatio": [
+              0
+            ],
+            "icon": {
+              "icon": "IconLink",
+              "alt": "",
+              "url": "",
+              "svgContent": [
+                0
+              ]
+            },
+            "href": "https://calendly.com/payments",
+            "backgroundShape": [
+              0
+            ]
+          }
+        ],
+        "eyebrowData": {
+          "variant": "badge",
+          "badgeLabel": "New",
+          "productLogo": [
+            "payments"
+          ],
+          "productLogoSize": "small",
+          "badgeColor": "default",
+          "badgeSize": "standard",
+          "badgeHref": [
+            0
+          ],
+          "reversed": [
+            0
+          ]
+        },
+        "heading": "Flexible payment options that fit your business",
+        "headingFont": "wulkan",
+        "description": [
+          0
+        ],
+        "progressColor": "jade",
+        "reverse": true,
+        "singleColumn": false,
+        "disableAutoplay": false,
+        "testId": "section-feature-accordion",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "UseCaseCarousel",
+      "url": "/_astro/index.D9fBMceg.js",
+      "props": {
+        "cards": [
+          {
+            "id": "6a4418c456f1d6732a609e01",
+            "headline": "75 hours saved monthly",
+            "statement": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "\u201cCalendly helps us protect our team\u2019s time and make every support interaction count.\u201d",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "person": {
+              "name": "Marques Stewart",
+              "role": "Managing Director of Technology at Achievement First",
+              "avatar": {
+                "src": "https://cdn.calendlycms.com/MarquesStewart.png",
+                "alt": ""
+              }
+            },
+            "backgroundImage": {
+              "src": "https://cdn.calendlycms.com/achievement-default.jpg",
+              "alt": "Achievement First team member working with a student in a school setting"
+            },
+            "featuredImage": {
+              "src": "https://cdn.calendlycms.com/achievement-selected.jpg",
+              "alt": "Achievement First team member working with a student, with the organization logo"
+            },
+            "href": [
+              0
+            ]
+          },
+          {
+            "id": "6a44193c56f1d6732a609e02",
+            "headline": "80% reduction in booking-related emails",
+            "statement": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "\u201cWe care deeply about the experience they have with us \u2014 and Calendly helps us start it off right.\u201d",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "person": {
+              "name": "Akira Bradley",
+              "role": "Co-Founder at Barking with the Bradley\u2019s",
+              "avatar": {
+                "src": "https://cdn.calendlycms.com/akira-bradley-headshot.jpg",
+                "alt": ""
+              }
+            },
+            "backgroundImage": {
+              "src": "https://cdn.calendlycms.com/BarkingwithBradleys-default.jpg",
+              "alt": "Barking with the Bradley's co-founder walking two dogs through a grassy park"
+            },
+            "featuredImage": {
+              "src": "https://cdn.calendlycms.com/BarkingwithBradleys-selected.jpg",
+              "alt": "Barking with the Bradley's co-founder walking two dogs, with company branding"
+            },
+            "href": [
+              0
+            ]
+          },
+          {
+            "id": "6a44197556f1d6732a609e03",
+            "headline": "3 to 5 hours saved per week ",
+            "statement": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "\u201cNotetaker organizes the chaos of dialogue into clarity.\u201d",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "person": {
+              "name": "Lizzie Lewis",
+              "role": "Founder at Kitty of Angels",
+              "avatar": {
+                "src": "https://cdn.calendlycms.com/lizzie-lewis-headshot.jpg",
+                "alt": ""
+              }
+            },
+            "backgroundImage": {
+              "src": "https://cdn.calendlycms.com/Kitty-of-angels-default.jpg",
+              "alt": "Two young gray kittens sitting together for the Kitty of Angels customer story"
+            },
+            "featuredImage": {
+              "src": "https://cdn.calendlycms.com/Kitty-of-angels-selected.jpg",
+              "alt": "Two young gray kittens sitting together with the Kitty of Angels logo"
+            },
+            "href": [
+              0
+            ]
+          },
+          {
+            "id": "6a44199b56f1d6732a609e04",
+            "headline": "$1,200 annual savings",
+            "statement": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "\u201cI use Calendly every single day. Without it, I honestly couldn\u2019t run my business.\u201d",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "person": {
+              "name": "Pua Pakele",
+              "role": "Founder at RBL Media",
+              "avatar": {
+                "src": "https://cdn.calendlycms.com/pua-pakele-headshot.png",
+                "alt": ""
+              }
+            },
+            "backgroundImage": {
+              "src": "https://cdn.calendlycms.com/RBL-default.jpg",
+              "alt": "Pua Pakele of RBL Media sitting outdoors on the grass with her dog"
+            },
+            "featuredImage": {
+              "src": "https://cdn.calendlycms.com/RBL-selected.jpg",
+              "alt": "Pua Pakele of RBL Media sitting outdoors on the grass with her dog"
+            },
+            "href": [
+              0
+            ]
+          },
+          {
+            "id": "6a4419c256f1d6732a609e05",
+            "headline": "100% attendance rate",
+            "statement": {
+              "root": {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "\u201cAdding a booking fee didn\u2019t just reduce no-shows \u2014 it changed the tone of my consultations.\u201d ",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": null,
+                    "format": "",
+                    "indent": 0,
+                    "type": "paragraph",
+                    "version": 1,
+                    "textFormat": 0,
+                    "textStyle": ""
+                  }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+              }
+            },
+            "person": {
+              "name": "Elizabeth Saunders",
+              "role": "Founder at Real Life E",
+              "avatar": {
+                "src": "https://cdn.calendlycms.com/elizabeth-saunders-headshot.jpeg",
+                "alt": ""
+              }
+            },
+            "backgroundImage": {
+              "src": "https://cdn.calendlycms.com/reallifee-default.jpg",
+              "alt": "Elizabeth Saunders, founder of Real Life E, in a professional portrait"
+            },
+            "featuredImage": {
+              "src": "https://cdn.calendlycms.com/reallifee-selected.jpg",
+              "alt": "Elizabeth Saunders of Real Life E with Time Coaching and Speaking branding"
+            },
+            "href": [
+              0
+            ]
+          }
+        ],
+        "eyebrow": "Customer stories",
+        "heading": "Real customers. Real results.",
+        "isDarkBg": true,
+        "isContained": false,
+        "testId": "section-use-case-carousel",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "HeadingIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "alignment": "centered",
+        "title": "Connect Calendly with your favorite tools",
+        "headingSize": "h1",
+        "headingFont": "calendly-sans",
+        "eyebrow": {
+          "variant": "eyebrowOverline",
+          "badgeLabel": "150+ integrations",
+          "accompanyingBadgeLabel": [
+            0
+          ],
+          "badgeSize": "standard"
+        },
+        "body": "Our extensive list of integrations makes Calendly flexible.",
+        "caption": [
+          0
+        ],
+        "primaryCta": {
+          "label": "View all integrations",
+          "href": "https://calendly.com/integration",
+          "variant": "tertiary",
+          "imageSrc": [
+            0
+          ],
+          "imageAlt": [
+            0
+          ],
+          "iconPlacement": "right",
+          "buttonType": "tertiary",
+          "iconName": "Arrow Right",
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "View all integrations",
+            "destination": "https://calendly.com/integration",
+            "location": "Rich text button"
+          }
+        },
+        "secondaryCta": [
+          0
+        ],
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "locale": "en-US",
+        "isHero": [
+          0
+        ],
+        "testId": "section-heading"
+      }
+    },
+    {
+      "component": "IconTilesSectionIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "tiles": [
+          {
+            "icon": "https://cdn.calendlycms.com/zoom-logo-icon-1.svg",
+            "href": "/integration/zoom",
+            "name": "Zoom integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/google-calendar-icon.svg",
+            "href": "/help/how-to-connect-your-google-calendar",
+            "name": "Google Calendar integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/google-gmail-icon.svg",
+            "href": "/integration/gmail-workflows",
+            "name": "Gmail integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/google-meet-icon.svg",
+            "href": "/integration/google-meet",
+            "name": "Google Meet"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/saleforce.svg",
+            "href": "/integration/salesforce",
+            "name": "Salesforce integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/slack-logo-icon.svg",
+            "href": "/integration/slack",
+            "name": "Slack integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/microsoft-teams-logo-icon.svg",
+            "href": "/integration/microsoft-teams",
+            "name": "Microsoft Teams integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/microsoft-logo-icon.svg",
+            "href": "/integration/outlook-workflows",
+            "name": "Outlook integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/chrome-logo.svg",
+            "href": "/integration/calendly-for-chrome",
+            "name": "Chrome integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/openai-icon.svg",
+            "href": "/integration/chatgpt",
+            "name": "OpenAI"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/claude-icon.svg",
+            "href": "/integration/claude",
+            "name": "Claude"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/hubspot.svg",
+            "href": "/integration/hubspot",
+            "name": "HubSpot integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/greenhouse-logo-icon.svg",
+            "href": "/integration/greenhouse",
+            "name": "Greenhouse integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/linkedin-logo-icon.svg",
+            "href": "/integration/linkedin",
+            "name": "LinkedIn integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/stripe-logo.svg",
+            "href": "/integration/stripe",
+            "name": "Stripe integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/paypal-icon.svg",
+            "href": "/integration/paypal",
+            "name": "PayPal integration"
+          },
+          {
+            "icon": "https://cdn.calendlycms.com/zapier-icon.svg",
+            "href": "/integration/zapier",
+            "name": "Zapier integration"
+          }
+        ],
+        "tilesPerRow": [
+          0
+        ],
+        "testId": "section-icon-tiles",
+        "locale": "en-US"
+      }
+    },
+    {
+      "component": "CardGridIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "heading": null,
+        "body": [
+          0
+        ],
+        "caption": [
+          0
+        ],
+        "eyebrow": [
+          0
+        ],
+        "alignment": "centered",
+        "headingSize": "h2",
+        "images": [],
+        "cards": [
+          {
+            "cardType": "icon",
+            "heading": "Google suite",
+            "body": "Get your job done faster by connecting Calendly to Google Calendar, Meet, Analytics, and more.",
+            "badge": [
+              0
+            ],
+            "href": "/integration/google",
+            "ctaLabel": [
+              0
+            ],
+            "imageSrc": [
+              0
+            ],
+            "imageAlt": [
+              0
+            ],
+            "videoHashedId": [
+              0
+            ],
+            "videoAspectRatio": [
+              0
+            ],
+            "iconSrcs": [
+              {
+                "icon": "product-icon__google-logo-mark-mid-7533",
+                "alt": "Google logo, a Calendly integration",
+                "url": "https://cdn.calendlycms.com/google-logo-mark.png"
+              }
+            ],
+            "listItems": [],
+            "listIcon": [
+              0
+            ],
+            "linkedInHref": [
+              0
+            ],
+            "logoSrc": [
+              0
+            ],
+            "logoAlt": [
+              0
+            ],
+            "stat": [
+              0
+            ],
+            "statLabel": [
+              0
+            ],
+            "statLabelRichText": [
+              0
+            ],
+            "bodyRichText": [
+              0
+            ],
+            "color": [
+              0
+            ],
+            "quote": [
+              0
+            ],
+            "relationTo": "marketingComponentIconCards",
+            "productSize": [
+              0
+            ],
+            "fullWidth": false,
+            "unsupportedReason": [
+              0
+            ],
+            "key": "2LdH0kWEqg03Ez0DfFn666"
+          },
+          {
+            "cardType": "icon",
+            "heading": "Microsoft suite",
+            "body": "Make your day easier with Calendly integrations for Microsoft Teams, Outlook, Azure SSO, and more.",
+            "badge": [
+              0
+            ],
+            "href": "/integration/microsoft",
+            "ctaLabel": [
+              0
+            ],
+            "imageSrc": [
+              0
+            ],
+            "imageAlt": [
+              0
+            ],
+            "videoHashedId": [
+              0
+            ],
+            "videoAspectRatio": [
+              0
+            ],
+            "iconSrcs": [
+              {
+                "icon": "product-icon__microsoft-logo-mid-3706",
+                "alt": "Microsoft logo, a Calendly integration",
+                "url": "https://cdn.calendlycms.com/microsoftLogo.svg"
+              }
+            ],
+            "listItems": [],
+            "listIcon": [
+              0
+            ],
+            "linkedInHref": [
+              0
+            ],
+            "logoSrc": [
+              0
+            ],
+            "logoAlt": [
+              0
+            ],
+            "stat": [
+              0
+            ],
+            "statLabel": [
+              0
+            ],
+            "statLabelRichText": [
+              0
+            ],
+            "bodyRichText": [
+              0
+            ],
+            "color": [
+              0
+            ],
+            "quote": [
+              0
+            ],
+            "relationTo": "marketingComponentIconCards",
+            "productSize": [
+              0
+            ],
+            "fullWidth": false,
+            "unsupportedReason": [
+              0
+            ],
+            "key": "2RnTjTwIrYOZ8rAqmcirg8"
+          }
+        ],
+        "logo": [
+          0
+        ],
+        "desktopColumnCount": 2,
+        "tabletColumnCount": 2,
+        "singleColumn": [
+          0
+        ],
+        "eager": false,
+        "locale": "en-US",
+        "leadershipCardLabels": {
+          "moreAbout": "More about",
+          "lessAbout": "Less about",
+          "viewLinkedInProfile": "View {name}'s LinkedIn profile",
+          "leadershipTeamMember": "leadership team member",
+          "expandLeader": "Expand {name}",
+          "collapseLeader": "Collapse {name}"
+        },
+        "layout": [
+          0
+        ],
+        "marqueeLabels": {
+          "pauseScrolling": "Pause scrolling",
+          "resumeScrolling": "Resume scrolling"
+        },
+        "sectionLabel": [
+          0
+        ],
+        "testId": "section-card-grid"
+      }
+    },
+    {
+      "component": "ConversionPanelIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "variant": "marquee",
+        "eyebrow": "Get started",
+        "heading": "From the first meeting to the follow-up",
+        "body": "All of the work around meetings, handled in one place. Book time, capture every discussion, and keep next steps moving without the manual work.",
+        "primaryCta": {
+          "label": "Start for free",
+          "href": "https://calendly.com/signup",
+          "variant": "primary",
+          "imageSrc": [
+            0
+          ],
+          "imageAlt": [
+            0
+          ],
+          "iconPlacement": "right",
+          "buttonType": "primary",
+          "iconName": [
+            0
+          ],
+          "popup": [
+            0
+          ],
+          "loggedIn": [
+            0
+          ],
+          "trackEvent": {
+            "text": "Start for free",
+            "destination": "https://calendly.com/signup",
+            "location": "Rich text button"
+          }
+        },
+        "secondaryCta": [
+          0
+        ],
+        "popupOptions": {
+          "locale": "en-US",
+          "translations": {
+            "form_field_required": "This field is required.",
+            "form_email_label": "Email",
+            "form_email_placeholder": "your@email.com",
+            "form_subject_label": "Subject",
+            "form_subject_placeholder": "Brief summary of your issue",
+            "form_description_label": "Description",
+            "form_description_placeholder": "Please describe your issue in detail",
+            "form_issue_type_label": "Issue Type",
+            "form_issue_billing": "Billing & Payments",
+            "form_issue_signin": "Sign-In Help",
+            "form_issue_product": "Product Support",
+            "form_submit": "Submit Ticket",
+            "form_submit_error": "Something went wrong. Please try again.",
+            "form_success_title": "Your ticket has been submitted",
+            "form_success_description": "We'll get back to you as soon as possible.",
+            "form_lead_submit": "Submit",
+            "form_error_required": "This field is required.",
+            "form_error_email": "Please enter a valid email address.",
+            "form_error_business_email": "Please enter your business email address.",
+            "form_error_load": "This form couldn\u2019t load. Please refresh and try again."
+          },
+          "closeLabel": "Close popup",
+          "payloadApiUrl": "https://calendlycms.com"
+        },
+        "cards": [
+          {
+            "image": "https://cdn.calendlycms.com/cta-marquee-discovery-scheduled.png",
+            "imageAlt": "",
+            "product": "callie",
+            "gradient": "02",
+            "pattern": "flowing",
+            "patternColor": [
+              0
+            ],
+            "labels": [
+              "Discovery",
+              "Scheduled"
+            ]
+          },
+          {
+            "image": "https://cdn.calendlycms.com/cta-marquee-meeting-summarized.png",
+            "imageAlt": "",
+            "product": "notetaker",
+            "gradient": "01",
+            "pattern": "flowing",
+            "patternColor": "#D4C2FF",
+            "labels": [
+              "Meeting",
+              "Summarized"
+            ]
+          },
+          {
+            "image": "https://cdn.calendlycms.com/cta-marquee-interview-booked.png",
+            "imageAlt": "",
+            "product": "scheduling",
+            "gradient": "05",
+            "pattern": "open",
+            "patternColor": "#6BB1FF",
+            "labels": [
+              "Interview",
+              "Booked"
+            ]
+          },
+          {
+            "image": "https://cdn.calendlycms.com/cta-marquee-payment-received.png",
+            "imageAlt": "",
+            "product": "payments",
+            "gradient": "04",
+            "pattern": "facet",
+            "patternColor": "#BAF0EC",
+            "labels": [
+              "Payment",
+              "Received"
+            ]
+          }
+        ],
+        "locale": "en-US",
+        "testId": "section-conversion-panel"
+      }
+    },
+    {
+      "component": "GlobalFooterIsland",
+      "url": "/_astro/index.BOxa4bpV.js",
+      "props": {
+        "heading": "Make space for what matters.",
+        "linkGroups": [
+          {
+            "title": "Products",
+            "links": [
+              {
+                "label": "Scheduling",
+                "href": "https://calendly.com/scheduling",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "AI assistant",
+                "href": "https://calendly.com/ai-assistant",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Notetaker",
+                "href": "https://calendly.com/notetaker",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Contacts",
+                "href": "https://calendly.com/contacts",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Payments",
+                "href": "https://calendly.com/payments",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Features",
+            "links": [
+              {
+                "label": "Security",
+                "href": "https://calendly.com/security",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Customizable availability",
+                "href": "https://calendly.com/scheduling/availability",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Event types",
+                "href": "https://calendly.com/scheduling/event-types",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Meeting polls",
+                "href": "https://calendly.com/scheduling/meeting-polls",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Reminders & follow up",
+                "href": "https://calendly.com/scheduling/automated-communication",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Meeting routing",
+                "href": "https://calendly.com/scheduling/routing",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Analytics",
+                "href": "https://calendly.com/features/analytics",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Admin management",
+                "href": "https://calendly.com/features/admin-management",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Integrations ",
+            "links": [
+              {
+                "label": "Google ecosystem",
+                "href": "https://calendly.com/integration?search=google",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Microsoft ecosystem",
+                "href": "https://calendly.com/integration?search=microsoft",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Video conferencing",
+                "href": "https://calendly.com/integration#video-conferencing",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Payment processors",
+                "href": "https://calendly.com/integration#payments",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Sales & CRM",
+                "href": "https://calendly.com/integration#sales-and-crm",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Recruiting & ATS",
+                "href": "https://calendly.com/integration#recruiting-and-ats",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "All integrations",
+                "href": "https://calendly.com/integration",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Solutions",
+            "links": [
+              {
+                "label": "For individuals",
+                "href": "https://calendly.com/solutions/individuals",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "For teams",
+                "href": "https://calendly.com/solutions/small-business",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "For large companies",
+                "href": "https://calendly.com/solutions/enterprise",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Resources ",
+            "links": [
+              {
+                "label": "Create your account",
+                "href": "https://calendly.com/signup",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Pricing and plans",
+                "href": "https://calendly.com/pricing",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Product tour",
+                "href": "https://calendly.com/demo",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "What's new",
+                "href": "https://calendly.com/release-notes",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Getting started guide",
+                "href": "https://calendly.com/learn/getting-started",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Calendly community",
+                "href": "https://community.calendly.com/",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Developer tools",
+                "href": "https://developer.calendly.com/",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Support",
+            "links": [
+              {
+                "label": "Help center",
+                "href": "https://calendly.com/help",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Learning hub",
+                "href": "https://calendly.com/learn",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Contact support",
+                "href": "https://calendly.com/help/support",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Contact sales",
+                "href": "https://calendly.com/contact",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Company",
+            "links": [
+              {
+                "label": "About us",
+                "href": "https://calendly.com/about",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Careers",
+                "href": "https://calendly.com/careers",
+                "external": true,
+                "badge": "We\u2019re hiring!"
+              },
+              {
+                "label": "Become a partner",
+                "href": "https://calendly.com/partners/contact",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              },
+              {
+                "label": "Blog",
+                "href": "https://calendly.com/blog",
+                "external": true,
+                "badge": [
+                  0
+                ]
+              }
+            ]
+          }
+        ],
+        "bottomLinks": [
+          {
+            "label": "Privacy Policy",
+            "href": "/legal/privacy-notice"
+          },
+          {
+            "label": "Legal",
+            "href": "/legal"
+          },
+          {
+            "label": "Status",
+            "href": "https://www.calendlystatus.com/",
+            "external": true
+          }
+        ],
+        "copyright": "\u00a9 Copyright Calendly 2026",
+        "downloadsLabel": "Downloads",
+        "socialLabel": "Join us on social",
+        "langLabel": "English",
+        "languages": [
+          {
+            "name": "English",
+            "locale": "en-US",
+            "href": "/",
+            "selected": true
+          },
+          {
+            "name": "Fran\u00e7ais",
+            "locale": "fr",
+            "href": "/fr",
+            "selected": false
+          },
+          {
+            "name": "Espa\u00f1ol",
+            "locale": "es",
+            "href": "/es",
+            "selected": false
+          },
+          {
+            "name": "Deutsch",
+            "locale": "de",
+            "href": "/de",
+            "selected": false
+          },
+          {
+            "name": "Portugu\u00eas",
+            "locale": "pt",
+            "href": "/pt",
+            "selected": false
+          }
+        ],
+        "locale": "en-US",
+        "cookieSettingsLabel": "Cookie Settings",
+        "privacyChoicesLabel": "Your Privacy Choices"
+      }
+    }
+  ]
+}
